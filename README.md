@@ -8,6 +8,6 @@
 </p>
 
 This all originated from when I wanted to try learning Vue, so I decided on a site that shows you all the items Risk of Rain 2 has. But I ran into a wall, there was no simple online database with all the info I needed.
-I then saw this as a chance to learn making a REST api, so I began with that, but after writing the app file I realized it would be too tedious to manually have to create each entry for the item. That's when a friend of mine, @TibixDev, recommended I take this as a chance to learn JSDom too, and that's exactly what I did.
+I then saw this as a chance to learn making a REST api, so I began with that, but after writing the app file I realized it would be too tedious to manually have to create each entry for the item. That's when a friend of mine, [@TibixDev](https://github.com/TibixDev), recommended I take this as a chance to learn JSDom too, and that's exactly what I did.
 
 12 hours later and the project is close to reaching MVP.
