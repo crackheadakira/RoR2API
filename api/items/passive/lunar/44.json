@@ -1,0 +1,30 @@
+{
+    "id": "44",
+    "title": "Brittle Crown",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Gain gold on hit... BUT surrender gold on getting hit.",
+        "advancedDescription": "30% chance on hit to gain 2 (+2 per stack) gold. Scales over time.Lose gold on taking damage equal to 100% (+100% per stack) of the maximum health percentage you lost."
+    },
+    "rarity": "Lunar",
+    "stats": {
+        "Stat": {
+            "column1": "Gold Gained",
+            "column2": "Gold Lost"
+        },
+        "Value": {
+            "column1": "2",
+            "column2": "100%"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+2",
+            "column2": "+100%"
+        }
+    }
+}

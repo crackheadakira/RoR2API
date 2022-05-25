@@ -1,0 +1,19 @@
+{
+    "id": "94",
+    "title": "Ghor's Tome",
+    "category": [
+        "Utility",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Chance on kill to drop a treasure.",
+        "advancedDescription": "4% (+4% on stack) chance on kill to drop a treasure worth $25. Scales over time."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": "Drop Chance",
+        "Value": "4%",
+        "Stack": "Linear",
+        "Add": "+4%"
+    }
+}

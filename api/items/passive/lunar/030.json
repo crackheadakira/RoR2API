@@ -1,0 +1,30 @@
+{
+    "id": "Unknown",
+    "title": "Light Flux Pauldron",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Halve your cooldowns.. BUT halve your attack speed.",
+        "advancedDescription": "Decrease skill cooldowns by 50% (+50% per stack). Decrease attack speed by 50% (+50% per stack)."
+    },
+    "rarity": "Lunar",
+    "stats": {
+        "Stat": {
+            "column1": "Skill Cooldowns",
+            "column2": "Attack Speed"
+        },
+        "Value": {
+            "column1": "50%",
+            "column2": "50%"
+        },
+        "Stack": {
+            "column1": "Exponential",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "-50%",
+            "column2": "-50%"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "51",
+    "title": "Soulbound Catalyst",
+    "category": [
+        "Utility",
+        "OnKillEffect",
+        "EquipmentRelated"
+    ],
+    "description": {
+        "textDescription": "Kills reduce equipment cooldown.",
+        "advancedDescription": "Kills reduce equipment cooldown by 4s (+2s per stack)."
+    },
+    "rarity": "Legendary",
+    "stats": {
+        "Stat": "Cooldown Reduction",
+        "Value": "4s",
+        "Stack": "Linear",
+        "Add": "+2s"
+    }
+}

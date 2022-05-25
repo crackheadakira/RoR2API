@@ -1,0 +1,18 @@
+{
+    "id": "Unknown",
+    "title": "Ignition Tank",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Your ignite effects deal quadruple damage.",
+        "advancedDescription": "Ignite effects deal +300% (+300% per stack) more damage over time."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "300%",
+        "Stack": "Linear",
+        "Add": "+300%"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "Unknown",
+    "title": "Mercurial Rachis",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.",
+        "advancedDescription": "Creates a Ward of Power in a random location nearby that buffs both enemies and allies within 16m (+50% per stack), causing them to deal +50% damage."
+    },
+    "rarity": "Lunar",
+    "stats": {
+        "Stat": "Range",
+        "Value": "16m",
+        "Stack": "Exponential",
+        "Add": "+50%"
+    }
+}

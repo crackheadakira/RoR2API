@@ -1,0 +1,18 @@
+{
+    "id": "104",
+    "title": "Death Mark",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Enemies with 4 or more debuffs are marked for death, taking bonus damage.",
+        "advancedDescription": "Enemies with 4 or more debuffs are marked for death, increasing damage taken by 50% from all sources for 7 (+7 per stack) seconds."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": "Debuff Duration",
+        "Value": "7s",
+        "Stack": "Linear",
+        "Add": "+7s"
+    }
+}

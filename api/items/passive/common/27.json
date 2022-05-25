@@ -1,21 +1,18 @@
 {
-    "id": 27,
-    "name": "Cautious Slug",
-    "category": "Passive",
+    "id": "27",
+    "title": "Cautious Slug",
+    "category": [
+        "Healing"
+    ],
     "description": {
         "textDescription": "Rapidly heal outside of danger.",
-        "advancedDescription": "Increase base health regeneration by +3 hp/s (+3 hp/s per stack) while outside of combat."
+        "advancedDescription": "Increases base health regeneration by +3 hp/s (+3 hp/s per stack) while outside of combat."
     },
     "rarity": "Common",
     "stats": {
-        "type": "Health Regen",
-        "base-value": "3",
-        "stack": {
-            "type": "Linear",
-            "formula": ""
-        },
-        "increase-value": "+3"
-    },
-    "unlock": "Unlocked by default",
-    "image": "placeholder"
+        "Stat": "Health Regen",
+        "Value": "3",
+        "Stack": "Linear",
+        "Add": "+3"
+    }
 }

@@ -1,0 +1,19 @@
+{
+    "id": "Unknown",
+    "title": "Roll of Pennies",
+    "category": [
+        "Utility",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Gain gold on taking damage.",
+        "advancedDescription": "Gain 3 (+3 per stack) gold on taking damage from an enemy. Scales over time."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Base Gold",
+        "Value": "3",
+        "Stack": "Linear",
+        "Add": "+3"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "Unknown",
+    "title": "Needletick",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Chance to collapse enemies on hit. Corrupts all Tri-Tip Daggers.",
+        "advancedDescription": "10% (+10% per stack) chance to collapse an enemy for 400% base damage. Corrupts all Tri-Tip Daggers."
+    },
+    "rarity": "Void",
+    "stats": {
+        "Stat": "Chance to Collapse",
+        "Value": "10%",
+        "Stack": "Linear",
+        "Add": "+10%"
+    }
+}

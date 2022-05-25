@@ -1,0 +1,16 @@
+{
+    "id": "Unknown",
+    "title": "Shipping Request Form",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Get a delivery each stage that contains powerful items.",
+        "advancedDescription": "A delivery containing 2 items (79%/20%/1%) will appear in a random location on each stage. (Increases rarity chances of the items per stack)."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": "Rarity",
+        "Value": "Special"
+    }
+}

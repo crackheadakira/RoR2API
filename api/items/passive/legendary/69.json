@@ -1,0 +1,21 @@
+{
+    "id": "69",
+    "title": "Wake of Vultures",
+    "category": [
+        "Damage",
+        "Utility",
+        "AIBlacklist",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Temporarily steal the power of slain elites.",
+        "advancedDescription": "Gain the power of any killed elite monster for 8s (+5s per stack)."
+    },
+    "rarity": "Legendary",
+    "stats": {
+        "Stat": "Duration",
+        "Value": "8s",
+        "Stack": "Linear",
+        "Add": "+5s"
+    }
+}

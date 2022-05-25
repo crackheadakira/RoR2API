@@ -1,0 +1,19 @@
+{
+    "id": "9",
+    "title": "Hopoo Feather",
+    "category": [
+        "Utility",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Gain an extra jump.",
+        "advancedDescription": "Gain +1 (+1 per stack) maximum jump count."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": "Extra Jump",
+        "Value": "1",
+        "Stack": "Linear",
+        "Add": "+1"
+    }
+}

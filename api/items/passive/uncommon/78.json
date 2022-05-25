@@ -1,0 +1,19 @@
+{
+    "id": "78",
+    "title": "Old Guillotine",
+    "category": [
+        "Damage",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Instantly kill low health Elite monsters.",
+        "advancedDescription": "Instantly kill Elite monsters below 13% (+13% per stack) health."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": "Threshold",
+        "Value": "13%",
+        "Stack": "Hyperbolic",
+        "Add": "+13%"
+    }
+}

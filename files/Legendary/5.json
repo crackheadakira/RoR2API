@@ -1,1 +1,0 @@
-{"id":"5","title":"Ceremonial Dagger","category":["Damage","OnKillEffect","AIBlacklist"],"description":{"textDescription":"Killing an enemy releases homing daggers.","advancedDescription":"Killing an enemy fires out 3 homing daggers that deal 150% (+150% per stack) base damage."},"rarity":"Legendary","stats":{"Stat":"Damage","Value":"150%","Stack":"Linear","Add":"+150%"}}

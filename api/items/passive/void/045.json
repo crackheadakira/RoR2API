@@ -1,0 +1,14 @@
+{
+    "id": "Unknown",
+    "title": "Encrusted Key",
+    "category": [
+        "Utility",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Gain access to an Encrusted Cache that contains a void item. Corrupts all Rusted Keys.",
+        "advancedDescription": "A hidden cache containing an item (60%/30%/10%) will appear in a random location on each stage. Opening the cache consumes this item. Corrupts all Rusted Keys."
+    },
+    "rarity": "Void",
+    "stats": {}
+}

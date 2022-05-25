@@ -1,21 +1,18 @@
 {
-    "id": 36,
-    "name": "Medkit",
-    "category": "Passive",
+    "id": "36",
+    "title": "Medkit",
+    "category": [
+        "Healing"
+    ],
     "description": {
         "textDescription": "Receive a delayed heal after taking damage.",
         "advancedDescription": "2 seconds after getting hurt, heal for 20 plus an additional 5% (+5% per stack) of maximum health."
     },
     "rarity": "Common",
     "stats": {
-        "type": "Heal",
-        "base-value": "5%",
-        "stack": {
-            "type": "Linear",
-            "formula": ""
-        },
-        "increase-value": "+5%"
-    },
-    "unlock": "Defeat an Elite-type monster.",
-    "image": "placeholder"
+        "Stat": "Heal",
+        "Value": "5%",
+        "Stack": "Linear",
+        "Add": "5%"
+    }
 }

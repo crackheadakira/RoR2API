@@ -1,1 +1,0 @@
-{"id":"Unknown","title":"Safer Spaces","category":["Utility"],"description":{"textDescription":"Block the next source of damage. Corrupts all Tougher Times.","advancedDescription":"Blocks incoming damage once. Recharges after 15 seconds (-10% per stack) Corrupts all Tougher Times."},"rarity":"Void","stats":{"Stat":"Recharge","Value":"15s","Stack":"Hyperbolic","Add":"-10%"}}

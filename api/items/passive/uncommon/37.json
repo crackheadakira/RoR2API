@@ -1,0 +1,19 @@
+{
+    "id": "37",
+    "title": "Bandolier",
+    "category": [
+        "Utility",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Chance on kill to drop an ammo pack that resets all skill cooldowns.",
+        "advancedDescription": "18% (+10% per stack) chance on kill to drop an ammo pack that resets all skill cooldowns."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": "Chance",
+        "Value": "18%",
+        "Stack": "Special",
+        "Add": "+10%"
+    }
+}

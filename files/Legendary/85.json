@@ -1,1 +1,0 @@
-{"id":"85","title":"Shattering Justice","category":["Damage"],"description":{"textDescription":"Reduce the armor of enemies after repeatedly striking them.","advancedDescription":"After hitting an enemy 5 times, reduce their armor by 60 for 8 (+8 per stack) seconds."},"rarity":"Legendary","stats":{"Stat":"Duration","Value":"8s","Stack":"Linear","Add":"+8s"}}

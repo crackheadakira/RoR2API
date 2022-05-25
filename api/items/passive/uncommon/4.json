@@ -1,0 +1,31 @@
+{
+    "id": "4",
+    "title": "Will-o'-the-wisp",
+    "category": [
+        "Damage",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Detonate enemies on kill.",
+        "advancedDescription": "On killing an enemy, spawn a lava pillar in a 12m (+2.4m per stack) radius for 350% (+280% per stack) base damage."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": {
+            "column1": "Damage",
+            "column2": "Radius"
+        },
+        "Value": {
+            "column1": "350%",
+            "column2": "12m"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+280%",
+            "column2": "+2.4m"
+        }
+    }
+}

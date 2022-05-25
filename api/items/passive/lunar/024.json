@@ -1,0 +1,19 @@
+{
+    "id": "Unknown",
+    "title": "Defiant Gouge",
+    "category": [
+        "Utility",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Using a Shrine summons enemies nearby.",
+        "advancedDescription": "Using a Shrine summons enemies (stronger per stack) nearby. Scales over time."
+    },
+    "rarity": "Lunar",
+    "stats": {
+        "Stat": "Enemy Difficulty",
+        "Value": "40%",
+        "Stack": "Linear",
+        "Add": "+40%"
+    }
+}

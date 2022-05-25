@@ -15,8 +15,8 @@ app.get('/', (req, res) => {
 makeGET(); // Allows you to access the first basic categories of items
 makeGET("/items");
 for (item of showDirURL(`/items`)) {
-    makeGETItems(item);
     makeGETid(item);
+    makeGETItems(item);
 }
 
 

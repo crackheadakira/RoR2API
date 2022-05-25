@@ -1,0 +1,32 @@
+{
+    "id": "33",
+    "title": "Infusion",
+    "category": [
+        "Utility",
+        "Healing",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Killing an enemy permanently increases your maximum health, up to 100.",
+        "advancedDescription": "Killing an enemy increases your health permanently by 1 (+1 per stack), up to a maximum of 100 (+100 per stack) health."
+    },
+    "rarity": "Uncommon",
+    "stats": {
+        "Stat": {
+            "column1": "Max Health Increase",
+            "column2": "Health Per Kill"
+        },
+        "Value": {
+            "column1": "100",
+            "column2": "1"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+100",
+            "column2": "+1"
+        }
+    }
+}

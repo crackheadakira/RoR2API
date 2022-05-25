@@ -1,0 +1,18 @@
+{
+    "id": "49",
+    "title": "Transcendence",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Convert all your health into shield. Increase maximum health.",
+        "advancedDescription": "Convert all but 1 health into regenerating shields. Gain 50% (+25% per stack) maximum health."
+    },
+    "rarity": "Lunar",
+    "stats": {
+        "Stat": "Maximum Health",
+        "Value": "50%",
+        "Stack": "Linear",
+        "Add": "+25%"
+    }
+}

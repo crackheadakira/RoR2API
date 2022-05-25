@@ -1,1 +1,0 @@
-{"id":"79","title":"War Horn","category":["Damage","EquipmentRelated"],"description":{"textDescription":"Activating your Equipment gives you a burst of attack speed.","advancedDescription":"Activating your Equipment gives you +70% attack speed for 8s (+4s per stack)."},"rarity":"Uncommon","stats":{"Stat":"Duration","Value":"8s","Stack":"Linear","Add":"+4s"}}

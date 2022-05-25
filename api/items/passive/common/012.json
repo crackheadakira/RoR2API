@@ -1,0 +1,18 @@
+{
+    "id": "Unknown",
+    "title": "Oddly-shaped Opal",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Reduce damage the first time you are hit.",
+        "advancedDescription": "Increase armor by 100 (+100 per stack) while out of danger."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Armor",
+        "Value": "100",
+        "Stack": "Linear",
+        "Add": "+100"
+    }
+}

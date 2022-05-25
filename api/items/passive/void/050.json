@@ -1,0 +1,19 @@
+{
+    "id": "Unknown",
+    "title": "Plasma Shrimp",
+    "category": [
+        "Damage",
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "While you have shield, fire missiles on every hit. Corrupts all AtG Missile Mk. 1s.",
+        "advancedDescription": "Gain a shield equal to 10% of your maximum health. While you have a shield, hitting an enemy fires a missile that deals 40% (+40% per stack) TOTAL damage. Corrupts all AtG Missile Mk. 1s."
+    },
+    "rarity": "Void",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "40%",
+        "Stack": "Linear",
+        "Add": "+40%"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "32",
+    "title": "Unstable Tesla Coil",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Shock all nearby enemies every 10 seconds.",
+        "advancedDescription": "Fire out lightning that hits 3 (+2 per stack) enemies for 200% base damage every 0.5s. The Tesla Coil switches off every 10 seconds."
+    },
+    "rarity": "Legendary",
+    "stats": {
+        "Stat": "Targets",
+        "Value": "3",
+        "Stack": "Linear",
+        "Add": "+2"
+    }
+}
