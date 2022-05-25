@@ -1,0 +1,20 @@
+{
+    "id": "84",
+    "title": "Topaz Brooch",
+    "category": [
+        "Utility",
+        "Healing",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Gain a temporary barrier on kill.",
+        "advancedDescription": "Gain a temporary barrier on kill for 15 health (+15 per stack)."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Barrier",
+        "Value": "15",
+        "Stack": "Linear",
+        "Add": "+15"
+    }
+}

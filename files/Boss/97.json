@@ -1,0 +1,19 @@
+{
+    "id": "97",
+    "title": "Genesis Loop",
+    "category": [
+        "Damage",
+        "LowHealth"
+    ],
+    "description": {
+        "textDescription": "Fire an electric nova at low health.",
+        "advancedDescription": "Falling below 25% health causes you to explode, dealing 6000% base damage. Recharges every 30 / (2 +1 per stack) seconds ."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Recharge Speed",
+        "Value": "100%",
+        "Stack": "Linear",
+        "Add": "+50%"
+    }
+}

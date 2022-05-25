@@ -1,0 +1,21 @@
+{
+    "id": 42,
+    "name": "Bundle of Fireworks",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Activating an interactable launches fireworks at nearby enemies.",
+        "advancedDescription": "Activating an interactable launches 8 (+4 per stack) fireworks that deal 300% base damage."
+    },
+    "rarity": "common",
+    "stats": {
+        "type": "Fireworks",
+        "base-value": "8",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+4"
+    },
+    "unlock": "Print the same item 7 times in a row with a 3D Printer.",
+    "image": "placeholder"
+}

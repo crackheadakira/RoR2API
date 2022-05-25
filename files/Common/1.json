@@ -1,0 +1,19 @@
+{
+    "id": "1",
+    "title": "Tougher Times",
+    "category": [
+        "Utility",
+        "BrotherBlacklist"
+    ],
+    "description": {
+        "textDescription": "Chance to block incoming damage.",
+        "advancedDescription": "15% (+15% per stack) chance to block incoming damage. Unaffected by luck."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Block Chance",
+        "Value": "15%",
+        "Stack": "Hyperbolic",
+        "Add": "+15%"
+    }
+}

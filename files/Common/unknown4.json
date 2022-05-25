@@ -1,0 +1,15 @@
+{
+    "id": "Unknown",
+    "title": "Power Elixir",
+    "category": [
+        "Healing",
+        "LowHealth",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Receive an instant heal at low health. Consumed on use.",
+        "advancedDescription": "Taking damage to below 25% health consumes this item, healing you for 75% of maximum health."
+    },
+    "rarity": "Common",
+    "stats": {}
+}

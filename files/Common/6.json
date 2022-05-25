@@ -1,0 +1,19 @@
+{
+    "id": "6",
+    "title": "Monster Tooth",
+    "category": [
+        "Healing",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Drop a healing orb on kill.",
+        "advancedDescription": "Killing an enemy spawns a healing orb that heals for 8 plus an additional 2% (+2% per stack) of maximum health."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Health per Orb",
+        "Value": "2%",
+        "Stack": "Linear",
+        "Add": "+2%"
+    }
+}

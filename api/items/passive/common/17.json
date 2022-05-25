@@ -1,0 +1,21 @@
+{
+    "id": 17,
+    "name": "Crowbar",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Deal bonus damage to enemies above 90% health.",
+        "advancedDescription": "Deal +75% (+75% per stack) damage to enemies above 90% health."
+    },
+    "rarity": "Common",
+    "stats": {
+        "type": "Damage",
+        "base-value": "75%",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+75%"
+    },
+    "unlock": "Discover 10 unique white items.",
+    "image": "placeholder"
+}

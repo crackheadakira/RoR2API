@@ -1,0 +1,18 @@
+{
+    "id": "Unknown",
+    "title": "Planula",
+    "category": [
+        "Healing"
+    ],
+    "description": {
+        "textDescription": "Receive flat healing when attacked.",
+        "advancedDescription": "Heal from incoming damage for 15 (+15 per stack)."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Healing",
+        "Value": "15",
+        "Stack": "Linear",
+        "Add": "+15"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "52",
+    "title": "Titanic Knurl",
+    "category": [
+        "Utility",
+        "Healing"
+    ],
+    "description": {
+        "textDescription": "Boosts health and regeneration.",
+        "advancedDescription": "Increase maximum health by 40 (+40 per stack) and base health regeneration by +1.6 hp/s (+1.6 hp/s per stack)."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": {
+            "column1": "Maximum Health",
+            "column2": "Health Regen"
+        },
+        "Value": {
+            "column1": "40",
+            "column2": "1.6"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+40",
+            "column2": "+1.6"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "36",
+    "title": "Medkit",
+    "category": [
+        "Healing"
+    ],
+    "description": {
+        "textDescription": "Receive a delayed heal after taking damage.",
+        "advancedDescription": "2 seconds after getting hurt, heal for 20 plus an additional 5% (+5% per stack) of maximum health."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Heal",
+        "Value": "5%",
+        "Stack": "Linear",
+        "Add": "5%"
+    }
+}

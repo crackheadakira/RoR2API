@@ -1,0 +1,19 @@
+{
+    "id": "Unknown",
+    "title": "Defense Nucleus",
+    "category": [
+        "Damage",
+        "OnKillEffect"
+    ],
+    "description": {
+        "textDescription": "Summon an Alpha Construct on killing an elite.",
+        "advancedDescription": "Killing elite monsters spawns an Alpha Construct. Limited to 4 (+4 per stack)."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Max Constructs",
+        "Value": "4",
+        "Stack": "Linear",
+        "Add": "+4"
+    }
+}

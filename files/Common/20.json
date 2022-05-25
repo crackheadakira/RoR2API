@@ -1,0 +1,18 @@
+{
+    "id": "20",
+    "title": "Tri-Tip Dagger",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Gain +10% chance to bleed enemies on hit.",
+        "advancedDescription": "10% (+10% per stack) chance to bleed an enemy for 240% base damage."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Chance to Bleed",
+        "Value": "10%",
+        "Stack": "Linear",
+        "Add": "+10%"
+    }
+}

@@ -1,0 +1,1 @@
+{"id":"62","title":"Rose Buckler","category":["Utility","SprintRelated"],"description":{"textDescription":"Reduce incoming damage while sprinting.","advancedDescription":"Increase armor by 30 (+30 per stack) while sprinting."},"rarity":"Uncommon","stats":{"Stat":"Armor","Value":"30","Stack":"Linear","Add":"+30"}}

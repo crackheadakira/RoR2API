@@ -1,0 +1,1 @@
+{"id":"21","title":"Red Whip","category":["Utility"],"description":{"textDescription":"Move fast out of combat.","advancedDescription":"Leaving combat boosts your movement speed by 30% (+30% per stack)."},"rarity":"Uncommon","stats":{"Stat":"Movement Speed","Value":"30%","Stack":"Linear","Add":"+30%"}}

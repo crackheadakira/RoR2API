@@ -1,0 +1,19 @@
+{
+    "id": "Unknown",
+    "title": "Mired Urn",
+    "category": [
+        "Healing",
+        "BrotherBlacklist"
+    ],
+    "description": {
+        "textDescription": "Siphon health from nearby enemies while in combat.",
+        "advancedDescription": "While in combat, the nearest 1 (+1 per stack) enemies to you within 13m will be 'tethered' to you, dealing 100% damage per second, applying tar, and healing you for 100% of the damage dealt."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Tethered Enemies",
+        "Value": "1",
+        "Stack": "Linear",
+        "Add": "+1"
+    }
+}

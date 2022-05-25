@@ -1,0 +1,18 @@
+{
+    "id": "17",
+    "title": "Crowbar",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Deal bonus damage to enemies above 90% health.",
+        "advancedDescription": "Deal +75% (+75% per stack) damage to enemies above 90% health."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "75%",
+        "Stack": "Linear",
+        "Add": "+75%"
+    }
+}

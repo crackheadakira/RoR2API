@@ -1,0 +1,19 @@
+{
+    "id": 0,
+    "name": "",
+    "category": "Active",
+    "type": "",
+    "description": {
+        "textDescription": "",
+        "advancedDescription": ""
+    },
+    "rarity": "",
+    "stats": {
+        "type": "",
+        "base-value": "",
+        "stack": "",
+        "increase-value": ""
+    },
+    "unlock": "",
+    "image": "placeholder"
+}

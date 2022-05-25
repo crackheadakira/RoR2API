@@ -1,0 +1,31 @@
+{
+    "id": "Unknown",
+    "title": "Mocha",
+    "category": [
+        "Damage",
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Slightly increase attack speed and movement speed.",
+        "advancedDescription": "Increases attack speed by 7.5% (+7.5 per stack) and movement speed by 7% (+7% per stack)."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": {
+            "column1": "Attack Speed",
+            "column2": "Movement Speed"
+        },
+        "Value": {
+            "column1": "7.5%",
+            "column2": "7%"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+7.5%",
+            "column2": "+7%"
+        }
+    }
+}

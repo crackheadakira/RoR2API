@@ -1,0 +1,1 @@
+{"id":"3","title":"AtG Missile Mk. 1","category":["Damage"],"description":{"textDescription":"Chance to fire a missile.","advancedDescription":"10% chance to fire a missile that deals 300% (+300% per stack) TOTAL damage."},"rarity":"Uncommon","stats":{"Stat":"Damage","Value":"300%","Stack":"Linear","Add":"+300%"}}

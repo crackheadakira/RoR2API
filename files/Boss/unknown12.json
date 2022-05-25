@@ -1,0 +1,18 @@
+{
+    "id": "Unknown",
+    "title": "Molten Perforator",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Chance on hit to fire magma balls.",
+        "advancedDescription": "10% chance on hit to call forth 3 magma balls from an enemy, dealing 300% (+300% per stack) damage each."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "300%",
+        "Stack": "Linear",
+        "Add": "+300%"
+    }
+}

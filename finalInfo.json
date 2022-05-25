@@ -1,0 +1,1439 @@
+[
+    {
+        "id": "Unknown",
+        "title": "Unreleased Items",
+        "category": "placeholder",
+        "description": {}
+    },
+    {
+        "id": "Unknown",
+        "title": "Spinel Tonic",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain a massive boost to ALL stats. Chance to gain an affliction that reduces ALL stats.",
+            "advancedDescription": "Drink the Tonic, gaining a boost for 20 seconds. Increases damage by +100%. Increases attack speed by +70%. Increases armor by +20. Increases maximum health by +50%. Increases passive health regeneration by +300%. Increases movespeed by +30%.When the Tonic wears off, you have a 20% chance to gain a Tonic Affliction, reducing all of your stats by -5% (-5% per stack)."
+        },
+        "rarity": "Lunar Equipment"
+    },
+    {
+        "id": "Unknown",
+        "title": "Item Scrap, Green",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Does nothing. Prioritized when used with 3D Printers.",
+            "advancedDescription": "Does nothing. Prioritized when used with 3D Printers."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "101",
+        "title": "Artifact Key",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "A stone shard with immense power.",
+            "advancedDescription": "A stone shard with immense power."
+        },
+        "rarity": "Boss (Bulwark's Ambry)"
+    },
+    {
+        "id": "Unknown",
+        "title": "Hunter's Harpoon",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Killing an enemy gives you a burst of movement speed.",
+            "advancedDescription": "Killing an enemy increases movement speed by 125%, fading over 1 (+0.5 per stack) seconds."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "49",
+        "title": "BoostHp",
+        "category": "placeholder",
+        "description": {},
+        "rarity": "None"
+    },
+    {
+        "id": "24",
+        "title": "Warbanner",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
+            "advancedDescription": "On level up or starting the Teleporter event, drop a banner that strengthens all allies within 16m (+8m per stack). Raise attack and movement speed by 30%."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "98",
+        "title": "Beads of Fealty",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Seems to do nothing... but...",
+            "advancedDescription": "Seems to do nothing... but..."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "32",
+        "title": "Unstable Tesla Coil",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Shock all nearby enemies every 10 seconds.",
+            "advancedDescription": "Fire out lightning that hits 3 (+2 per stack) enemies for 200% base damage every 0.5s. The Tesla Coil switches off every 10 seconds."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "5",
+        "title": "Ceremonial Dagger",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Killing an enemy releases homing daggers.",
+            "advancedDescription": "Killing an enemy fires out 3 homing daggers that deal 150% (+150% per stack) base damage."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Laser Scope",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Your 'Critical Strikes' deal an additional 100% damage.",
+            "advancedDescription": "Critical Strikes deal an additional 100% damage (+100% per stack)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "102",
+        "title": "Repulsion Armor Plate",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Receive flat damage reduction from all attacks.",
+            "advancedDescription": "Reduce all incoming damage by 5 (+5 per stack). Cannot be reduced below 1."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "75",
+        "title": "Rejuvenation Rack",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Double the strength of healing.",
+            "advancedDescription": "Heal +100% (+100% per stack) more."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "84",
+        "title": "Topaz Brooch",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain a temporary barrier on kill.",
+            "advancedDescription": "Gain a temporary barrier on kill for 15 health (+15 per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "33",
+        "title": "Infusion",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Killing an enemy permanently increases your maximum health, up to 100.",
+            "advancedDescription": "Killing an enemy increases your health permanently by 1 (+1 per stack), up to a maximum of 100 (+100 per stack) health."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "9",
+        "title": "Hopoo Feather",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain an extra jump.",
+            "advancedDescription": "Gain +1 (+1 per stack) maximum jump count."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "62",
+        "title": "Rose Buckler",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Reduce incoming damage while sprinting.",
+            "advancedDescription": "Increase armor by 30 (+30 per stack) while sprinting."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "95",
+        "title": "Resonance Disc",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.",
+            "advancedDescription": "Killing 4 enemies in 7 seconds charges the Resonance Disc. The disc launches itself toward a target for 300% base damage (+300% per stack), piercing all enemies it doesn't kill, and then explodes for 1000% base damage (+1000% per stack). Returns to the user, striking all enemies along the way for 300% base damage (+300% per stack)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Mercurial Rachis",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.",
+            "advancedDescription": "Creates a Ward of Power in a random location nearby that buffs both enemies and allies within 16m (+50% per stack), causing them to deal +50% damage."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Item Scrap, Yellow",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Does nothing. Prioritized when used with 3D Printers.",
+            "advancedDescription": "Does nothing. Prioritized when used with 3D Printers."
+        },
+        "rarity": "Boss"
+    },
+    {
+        "id": "57",
+        "title": "Energy Drink",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Increase sprint speed by +25%.",
+            "advancedDescription": "Sprint speed is improved by 25% (+25% per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "42",
+        "title": "Bundle of Fireworks",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Activating an interactable launches fireworks at nearby enemies.",
+            "advancedDescription": "Activating an interactable launches 8 (+4 per stack) fireworks that deal 300% base damage."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "50",
+        "title": "Alien Head",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Reduces cooldowns for your skills.",
+            "advancedDescription": "Reduce skill cooldowns by 25% (+25% per stack)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "37",
+        "title": "Bandolier",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance on kill to drop an ammo pack that resets all skill cooldowns.",
+            "advancedDescription": "18% (+10% per stack) chance on kill to drop an ammo pack that resets all skill cooldowns."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "3",
+        "title": "AtG Missile Mk. 1",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance to fire a missile.",
+            "advancedDescription": "10% chance to fire a missile that deals 300% (+300% per stack) TOTAL damage."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "17",
+        "title": "Crowbar",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Deal bonus damage to enemies above 90% health.",
+            "advancedDescription": "Deal +75% (+75% per stack) damage to enemies above 90% health."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "Unknown",
+        "title": "Bottled Chaos",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Activating your Equipment triggers an additional, random Equipment effect.",
+            "advancedDescription": "Trigger a random equipment effect 1 (+1 per stack) time(s)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Planula",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Receive flat healing when attacked.",
+            "advancedDescription": "Heal from incoming damage for 15 (+15 per stack)."
+        },
+        "rarity": "Boss (Grandparent)"
+    },
+    {
+        "id": "72",
+        "title": "Ghost",
+        "category": "placeholder",
+        "description": {},
+        "rarity": "None"
+    },
+    {
+        "id": "44",
+        "title": "Brittle Crown",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain gold on hit... BUT surrender gold on getting hit.",
+            "advancedDescription": "30% chance on hit to gain 2 (+2 per stack) gold. Scales over time.Lose gold on taking damage equal to 100% (+100% per stack) of the maximum health percentage you lost."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Essence of Heresy",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Replace your Special Skill with 'Ruin'.",
+            "advancedDescription": "Replace your Special Skill with Ruin.Dealing damage adds a stack of Ruin for 10 (+10 per stack) seconds. Activating the skill detonates all Ruin stacks at unlimited range, dealing 300% damage plus 120% damage per stack of Ruin. Recharges after 8 (+8 per stack) seconds."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "26",
+        "title": "Harvester's Scythe",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "'Critical Strikes' heal you.",
+            "advancedDescription": "Gain 5% critical chance. Critical strikes heal for 8 (+4 per stack) health."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "68",
+        "title": "Hardlight Afterburner",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.",
+            "advancedDescription": "Add +2 (+2 per stack) charges of your Utility skill. Reduces Utility skill cooldown by 33%."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "39",
+        "title": "Gasoline",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Killing an enemy ignites other nearby enemies.",
+            "advancedDescription": "Killing an enemy ignites all enemies within 12m (+4m per stack) for 150% base damage. Additionally, enemies burn for 150% (+75% per stack) base damage."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "30",
+        "title": "Fuel Cell",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Hold an additional equipment charge. Reduce equipment cooldown.",
+            "advancedDescription": "Hold an additional equipment charge (+1 per stack). Reduce equipment cooldown by 15% (+15% per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "92",
+        "title": "Pearl",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Increase your maximum health.",
+            "advancedDescription": "Increases maximum health by 10% (+10% per stack)."
+        },
+        "rarity": "Boss (Cleansing Pool)"
+    },
+    {
+        "id": "90",
+        "title": "Razorwire",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Retaliate in a burst of razors on taking damage.",
+            "advancedDescription": "Getting hit causes you to explode in a burst of razors, dealing 160% damage. Hits up to 5 (+2 per stack) targets in a 25m (+10m per stack) radius"
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "107",
+        "title": "Focused Convergence",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Increase the speed of Teleporter charging... BUT reduce the size of the zone.",
+            "advancedDescription": "Teleporters charge 30% (+30% per stack) faster, but the size of the Teleporter zone is 50% (-50% per stack) smaller."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "46",
+        "title": "Berzerker's Pauldron",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Enter a frenzy after killing 4 enemies in quick succession.",
+            "advancedDescription": "Killing 4 enemies within 1 second sends you into a frenzy for 6s (+4s per stack). Increases movement speed by 50% and attack speed by 100%."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Charged Perforator",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance on hit to call down a lightning strike.",
+            "advancedDescription": "10% chance on hit to down a lightning strike, dealing 500% (+500% per stack) damage."
+        },
+        "rarity": "Boss (Overloading Worm)"
+    },
+    {
+        "id": "Unknown",
+        "title": "Defiant Gouge",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Using a Shrine summons enemies nearby.",
+            "advancedDescription": "Using a Shrine summons enemies (stronger per stack) nearby. Scales over time."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Encrusted Key",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain access to an Encrusted Cache that contains a void item. Corrupts all Rusted Keys.",
+            "advancedDescription": "A hidden cache containing an item (60%/30%/10%) will appear in a random location on each stage. Opening the cache consumes this item. Corrupts all Rusted Keys."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "83",
+        "title": "Little Disciple",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Fire tracking wisps while sprinting.",
+            "advancedDescription": "Fire a tracking wisp for 300% (+300% per stack) damage. Fires every 1.6 seconds while sprinting. Fire rate increases with movement speed."
+        },
+        "rarity": "Boss (Grovetender)"
+    },
+    {
+        "id": "70",
+        "title": "Brainstalks",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Skills have NO cooldowns for a short period after killing an elite.",
+            "advancedDescription": "Upon killing an elite monster, enter a frenzy for 4s (+4s per stack) where skills have 0.5s cooldowns."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Item Scrap, White",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Does nothing. Prioritized when used with 3D Printers.",
+            "advancedDescription": "Does nothing. Prioritized when used with 3D Printers."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "13",
+        "title": "Leeching Seed",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Dealing damage heals you.",
+            "advancedDescription": "Dealing damage heals you for 1 (+1 per stack) health."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "25",
+        "title": "Old War Stealthkit",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Turn invisible at low health.",
+            "advancedDescription": "Falling below 25% health causes you to gain 40% movement speed and invisibility for 5s. Recharges every 30 seconds (-50% per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "8",
+        "title": "Paul's Goat Hoof",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Increase movement speed.",
+            "advancedDescription": "Increases movement speed by 14% (+14% per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "11",
+        "title": "Ukulele",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "...and his music was electric.",
+            "advancedDescription": "25% chance to fire chain lightning for 80% TOTAL damage on up to 3 (+2 per stack) targets within 20m (+2m per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "77",
+        "title": "DrizzlePlayerHelper",
+        "category": "placeholder",
+        "description": {},
+        "rarity": "None"
+    },
+    {
+        "id": "94",
+        "title": "Ghor's Tome",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance on kill to drop a treasure.",
+            "advancedDescription": "4% (+4% on stack) chance on kill to drop a treasure worth $25. Scales over time."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "61",
+        "title": "Armor-Piercing Rounds",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Deal extra damage to bosses.",
+            "advancedDescription": "Deal an additional 20% damage (+20% per stack) to bosses."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "106",
+        "title": "Ancestral Incubator",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance on kill to summon an Ancestral Pod.",
+            "advancedDescription": "7% chance (+1% per stack) on kill to summon an Ancestral Pod that distracts enemies.Once it fully grows, it will hatch into an allied Parent with 100% health (+100% per stack)."
+        },
+        "rarity": "NoTier (Grandparent)"
+    },
+    {
+        "id": "48",
+        "title": "BoostDamage",
+        "category": "placeholder",
+        "description": {},
+        "rarity": "None"
+    },
+    {
+        "id": "58",
+        "title": "Backup Magazine",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Add an extra charge of your Secondary skill.",
+            "advancedDescription": "Add +1 (+1 per stack) charge of your Secondary skill."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "Unknown",
+        "title": "Delicate Watch",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Deal bonus damage. Breaks at low health.",
+            "advancedDescription": "Increase damage by 20% (+20% per stack). Taking damage to below 25% health breaks this item."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "80",
+        "title": "Aegis",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Healing past full grants you a temporary barrier.",
+            "advancedDescription": "Healing past full grants you a temporary barrier for 50% (+50% per stack) of the amount you healed."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "65",
+        "title": "Chronobauble",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Slow enemies on hit.",
+            "advancedDescription": "Slow enemies on hit for -60% movement speed for 2s (+2s per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Defense Nucleus",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Summon an Alpha Construct on killing an elite.",
+            "advancedDescription": "Killing elite monsters spawns an Alpha Construct. Limited to 4 (+4 per stack)."
+        },
+        "rarity": "Boss (Xi Construct)"
+    },
+    {
+        "id": "87",
+        "title": "Focus Crystal",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Deal bonus damage to nearby enemies.",
+            "advancedDescription": "Increase damage to enemies within 13m by 20% (+20% per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "52",
+        "title": "Titanic Knurl",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Boosts health and regeneration.",
+            "advancedDescription": "Increase maximum health by 40 (+40 per stack) and base health regeneration by +1.6 hp/s (+1.6 hp/s per stack)."
+        },
+        "rarity": "Boss (Stone Titan)"
+    },
+    {
+        "id": "Unknown",
+        "title": "Polylute",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance to repeatedly strike a single enemy with lightning. Corrupts all Ukuleles.",
+            "advancedDescription": "25% chance to fire lightning for 60% TOTAL damage up to 3 (+3 per stack) times. Corrupts all Ukuleles."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "Unknown",
+        "title": "Molten Perforator",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance on hit to fire magma balls.",
+            "advancedDescription": "10% chance on hit to call forth 3 magma balls from an enemy, dealing 300% (+300% per stack) damage each."
+        },
+        "rarity": "Boss (Magma Worm)"
+    },
+    {
+        "id": "Unknown",
+        "title": "Shatterspleen",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Critical strikes always bleed enemies. Bleeding enemies now explode.",
+            "advancedDescription": "Gain 5% critical chance. Critical Strikes bleed enemies for 240% base damage. Bleeding enemies explode on death for 400% (+400% per stack) damage, plus an additional 15% (+15% per stack) of their maximum health."
+        },
+        "rarity": "Boss (Imp Overlord)"
+    },
+    {
+        "id": "91",
+        "title": "Bison Steak",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain 25 max health.",
+            "advancedDescription": "Increases maximum health by 25 (+25 per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "93",
+        "title": "Irradiant Pearl",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Increase ALL of your stats.",
+            "advancedDescription": "Increases ALL stats by 10% (+10% per stack)."
+        },
+        "rarity": "Boss (Cleansing Pool)"
+    },
+    {
+        "id": "Unknown",
+        "title": "Mocha",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Slightly increase attack speed and movement speed.",
+            "advancedDescription": "Increases attack speed by 7.5% (+7.5 per stack) and movement speed by 7% (+7% per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "53",
+        "title": "Queen's Gland",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Recruit a Beetle Guard.",
+            "advancedDescription": "Every 30 seconds, summon a Beetle Guard with bonus 300% damage and 100% health. Can have up to 1 (+1 per stack) Guards at a time."
+        },
+        "rarity": "Boss (Beetle Queen)"
+    },
+    {
+        "id": "Unknown",
+        "title": "Tentabauble",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance to root enemies on hit. Corrupts all Chronobaubles.",
+            "advancedDescription": "5% (+5% per stack) chance on hit to root enemies for 1s (+1s per stack). Corrupts all Chronobaubles."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "60",
+        "title": "Rusted Key",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain access to a Rusty Lockbox that contains a powerful item.",
+            "advancedDescription": "A hidden cache containing an item (80%/20%) will appear in a random location on each stage. Opening the cache consumes this item."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "36",
+        "title": "Medkit",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Receive a delayed heal after taking damage.",
+            "advancedDescription": "2 seconds after getting hurt, heal for 20 plus an additional 5% (+5% per stack) of maximum health."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "76",
+        "title": "Wax Quail",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Jumping while sprinting boosts you forward.",
+            "advancedDescription": "Jumping while sprinting boosts you forward by 10m (+10m per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "29",
+        "title": "Personal Shield Generator",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain a recharging shield.",
+            "advancedDescription": "Gain a shield equal to 8% (+8% per stack) of your maximum health. Recharges outside of danger."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "38",
+        "title": "Sentient Meat Hook",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance to hook all nearby enemies.",
+            "advancedDescription": "20% (+20% per stack) chance on hit to fire homing hooks at up to 10 (+5 per stack) enemies for 100% TOTAL damage."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "16",
+        "title": "Bustling Fungus",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Heal all nearby allies after standing still for 1 second.",
+            "advancedDescription": "After standing still for 1 second, create a zone that heals for 4.5% (+2.25% per stack) of your health every second to all allies within 3m (+1.5m per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "Unknown",
+        "title": "Hooks of Heresy",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Replace your Secondary Skill with 'Slicing Maelstrom'.",
+            "advancedDescription": "Replace your Secondary Skill  with Slicing Maelstrom.Charge up a projectile that deals 875% damage per second to nearby enemies, exploding after 3 seconds to deal 700% damage and root enemies for 3 (+3 per stack) seconds. Recharges after 5 (+5 per stack) seconds."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Eulogy Zero",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Items and equipment have a small chance to transform into a Lunar item instead.",
+            "advancedDescription": "Items have a 5% (+5% per stack) chance to become a Lunar item instead."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Item Scrap, Red",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Does nothing. Prioritized when used with 3D Printers.",
+            "advancedDescription": "Does nothing. Prioritized when used with 3D Printers."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "73",
+        "title": "HealthDecay",
+        "category": "placeholder",
+        "description": {},
+        "rarity": "None"
+    },
+    {
+        "id": "59",
+        "title": "Sticky Bomb",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance on hit to attach a bomb to enemies.",
+            "advancedDescription": "5% (+5% per stack) chance on hit to attach a bomb to an enemy, detonating for 180% TOTAL damage."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "79",
+        "title": "War Horn",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Activating your Equipment gives you a burst of attack speed.",
+            "advancedDescription": "Activating your Equipment gives you +70% attack speed for 8s (+4s per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Needletick",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance to collapse enemies on hit. Corrupts all Tri-Tip Daggers.",
+            "advancedDescription": "10% (+10% per stack) chance to collapse an enemy for 400% base damage. Corrupts all Tri-Tip Daggers."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "14",
+        "title": "Frost Relic",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Killing enemies surrounds you with an ice storm.",
+            "advancedDescription": "Killing an enemy surrounds you with an ice storm that deals 1200% damage per second and slows enemies by 80% for 1.5s. The storm grows with every kill, increasing its radius by 2m. Stacks up to 18m (+12m per stack)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Symbiotic Scorpion",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Permanently reduce armor on hit.",
+            "advancedDescription": "100% chance on hit to reduce armor by 2 (+2 per stack) permanently."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "66",
+        "title": "Dio's Best Friend",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Cheat death. Consumed on use.",
+            "advancedDescription": "Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Mired Urn",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Siphon health from nearby enemies while in combat.",
+            "advancedDescription": "While in combat, the nearest 1 (+1 per stack) enemies to you within 13m will be 'tethered' to you, dealing 100% damage per second, applying tar, and healing you for 100% of the damage dealt."
+        },
+        "rarity": "Boss (Clay Dunestrider)"
+    },
+    {
+        "id": "63",
+        "title": "Runald's Band",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "High damage hits also blasts enemies with runic ice. Recharges over time.",
+            "advancedDescription": "Hits that deal more than 400% damage also blasts enemies with a runic ice blast, slowing them by 80% for 3s (+3s per stack) and dealing 250% (+250% per stack) TOTAL damage. Recharges every 10 seconds."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "85",
+        "title": "Shattering Justice",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Reduce the armor of enemies after repeatedly striking them.",
+            "advancedDescription": "After hitting an enemy 5 times, reduce their armor by 60 for 8 (+8 per stack) seconds."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Weeping Fungus",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Heal while sprinting. Corrupts all Bustling Fungi.",
+            "advancedDescription": "Heals for 2% (+2% per stack) of your health every second while sprinting. Corrupts all Bustling Fungi."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "Unknown",
+        "title": "Empathy Cores",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Recruit a pair of Solus Probes that gain power with more allies.",
+            "advancedDescription": "Every 30 seconds, summon two Solus Probes that gain +100% (+100% per stack) damage per ally on your team."
+        },
+        "rarity": "Boss (Solus Control Unit)"
+    },
+    {
+        "id": "43",
+        "title": "Shaped Glass",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Double your damage... BUT halve your health.",
+            "advancedDescription": "Increase base damage by 100% (+100% per stack). Reduce maximum health by 50% (+50% per stack)."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "0",
+        "title": "Soldier's Syringe",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Increase attack speed.",
+            "advancedDescription": "Increases attack speed by 15% (+15% per stack)."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "27",
+        "title": "Cautious Slug",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Rapidly heal outside of danger.",
+            "advancedDescription": "Increases base health regeneration by +3 hp/s (+3 hp/s per stack) while outside of combat."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "86",
+        "title": "Lepton Daisy",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Periodically release a healing nova during the Teleporter event and 'Holdout Zones' such as the Void Fields.",
+            "advancedDescription": "Release a healing nova during the Teleporter event, healing all nearby allies for 50% of their maximum health. Occurs 1 (+1 per stack) times."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Voidsent Flame",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Full health enemies also detonate on hit. Corrupts all Will-o'-the-wisps.",
+            "advancedDescription": "Upon hitting an enemy at full health, spawn a lava pillar in a 12m (+2.4m per stack) radius for 260% (+156% per stack) base damage. Corrupts all Will-o'-the-wisps."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "6",
+        "title": "Monster Tooth",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Drop a healing orb on kill.",
+            "advancedDescription": "Killing an enemy spawns a healing orb that heals for 8 plus an additional 2% (+2% per stack) of maximum health."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "19",
+        "title": "Predatory Instincts",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "'Critical Strikes' increase attack speed. Stacks 3 times.",
+            "advancedDescription": "Gain 5% critical chance. Critical strikes increase attack speed by 12%. Maximum cap of 36% (+24% per stack) attack speed."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "31",
+        "title": "N'kuhana's Opinion",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Fire haunting skulls when healed.",
+            "advancedDescription": "Store 100% (+100% per stack) of healing as Soul Energy. After your Soul Energy reaches 10% of your maximum health, fire a skull that deals 250% of your Soul Energy as damage."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Regenerating Scrap",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Prioritized when used with Uncommon 3D Printers. Usable once per stage.",
+            "advancedDescription": "Does nothing. Prioritized when used with Uncommon 3D Printers. At the start of each stage, it regenerates."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "20",
+        "title": "Tri-Tip Dagger",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain +10% chance to bleed enemies on hit.",
+            "advancedDescription": "10% (+10% per stack) chance to bleed an enemy for 240% base damage."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "Unknown",
+        "title": "Power Elixir",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Receive an instant heal at low health. Consumed on use.",
+            "advancedDescription": "Taking damage to below 25% health consumes this item, healing you for 75% of maximum health."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "4",
+        "title": "Will-o'-the-wisp",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Detonate enemies on kill.",
+            "advancedDescription": "On killing an enemy, spawn a lava pillar in a 12m (+2.4m per stack) radius for 350% (+280% per stack) base damage."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "105",
+        "title": "Interstellar Desk Plant",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Plant a healing fruit on kill.",
+            "advancedDescription": "On kill, plant a healing fruit seed that grows into a plant after 5 seconds.The plant heals for 5% of maximum health every 0.5 second to all allies within 10m (+5.0m per stack). Lasts 10 seconds."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Spare Drone Parts",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Your drones fire faster, have less cooldowns, shoot missiles, and gain a bonus chaingun.",
+            "advancedDescription": "Gain Col. Droneman. Drones gain +50% (+50% per stack) attack speed and cooldown reduction. Drones gain 10% chance to fire a missile on hit, dealing 300% TOTAL damage. Drones gain an automatic chain gun that deals 6x100% damage, bouncing to 2 enemies."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "88",
+        "title": "Strides of Heresy",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Replace your Utility Skill with 'Shadowfade'.",
+            "advancedDescription": "Replace your Utility Skill with Shadowfade.Fade away, becoming intangible and gaining +30% movement speed. Heal for 18.2% (+18.2% per stack) of your maximum health. Lasts 3 (+3 per stack) seconds."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "2",
+        "title": "Brilliant Behemoth",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "All your attacks explode!",
+            "advancedDescription": "All your attacks explode in a 4m (+2.5m per stack) radius for a bonus 60% TOTAL damage to nearby enemies."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Roll of Pennies",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain gold on taking damage.",
+            "advancedDescription": "Gain 3 (+3 per stack) gold on taking damage from an enemy. Scales over time."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "7",
+        "title": "Lens-Maker's Glasses",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain 10% chance for hits to 'Critically Strike', dealing double damage.",
+            "advancedDescription": "Your attacks have a 10% (+10% per stack) chance to 'Critically Strike', dealing double damage."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "78",
+        "title": "Old Guillotine",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Instantly kill low health Elite monsters.",
+            "advancedDescription": "Instantly kill Elite monsters below 13% (+13% per stack) health."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Singularity Band",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "High damage hits also create unstable black holes. Recharges over time. Corrupts all Runald's and Kjaro's Bands.",
+            "advancedDescription": "Hits that deal more than 400% damage also fire a black hole that draws enemies within 15m into its center. Lasts 5 seconds before collapsing, dealing 100% (+100% per stack) TOTAL damage. Recharges every 20 seconds. Corrupts all Runald's and Kjaro's Bands."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "Unknown",
+        "title": "Safer Spaces",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Block the next source of damage. Corrupts all Tougher Times.",
+            "advancedDescription": "Blocks incoming damage once. Recharges after 15 seconds (-10% per stack) Corrupts all Tougher Times."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "69",
+        "title": "Wake of Vultures",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Temporarily steal the power of slain elites.",
+            "advancedDescription": "Gain the power of any killed elite monster for 8s (+5s per stack)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Oddly-shaped Opal",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Reduce damage the first time you are hit.",
+            "advancedDescription": "Increase armor by 100 (+100 per stack) while out of danger."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "Unknown",
+        "title": "Defensive Microbots",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Shoot down nearby projectiles. Recharge rate scales with attack speed.",
+            "advancedDescription": "Shoot down 1 (+1 per stack) projectiles within 20m every 0.5 seconds. Recharge rate scales with attack speed."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "71",
+        "title": "Corpsebloom",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Double your healing... BUT it's applied over time.",
+            "advancedDescription": "Heal +100% (+100% per stack) more. All healing is applied over time. Can heal for a maximum of 10% (-50% per stack) of your health per second."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Egocentrism",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain multiple orbiting bombs. Every minute, assimilate another item into Egocentrism.",
+            "advancedDescription": "Every 3 (-50% per stack) seconds, gain an orbiting bomb that detonates on impact for 360% damage, up to a maximum of 3 bombs (+1 per stack). Every 60 seconds, a random item is converted into this item."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "103",
+        "title": "Squid Polyp",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Activating an interactable summons a Squid Turret nearby.",
+            "advancedDescription": "Activating an interactable summons a Squid Turret that attacks nearby enemies at 100% (+100% per stack) attack speed. Lasts 30 seconds."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "22",
+        "title": "H3AD-5T v2",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Increase jump height. Hold 'Interact' to slam down to the ground.",
+            "advancedDescription": "Increase jump height. Creates a 5m-100m radius kinetic explosion on hitting the ground, dealing 1000%-10000% base damage that scales up with fall distance. Recharges in 10 (-50% per stack) seconds."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Lysate Cell",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Add an extra charge of your Special skill. Corrupts all Fuel Cells.",
+            "advancedDescription": "Add +1 (+1 per stack) charge of your Special skill. Reduces Special skill cooldown by 33%. Corrupts all Fuel Cells."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "Unknown",
+        "title": "Pocket I.C.B.M.",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "All Missile items deal more damage and fire an additional two missiles.",
+            "advancedDescription": "All missile items and equipment fire an additional 2 missiles. Increase missile damage by 0% (+50% per stack)"
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Purity",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Reduce your skill cooldowns by 2 seconds. You are unlucky.",
+            "advancedDescription": "All skill cooldowns are reduced by 2 (+1 per stack) seconds. All random effects are rolled +1 (+1 per stack) times for an unfavorable outcome."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Shipping Request Form",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Get a delivery each stage that contains powerful items.",
+            "advancedDescription": "A delivery containing 2 items (79%/20%/1%) will appear in a random location on each stage. (Increases rarity chances of the items per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "1",
+        "title": "Tougher Times",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance to block incoming damage.",
+            "advancedDescription": "15% (+15% per stack) chance to block incoming damage. Unaffected by luck."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "64",
+        "title": "Kjaro's Band",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "High damage hits also blasts enemies with a runic flame tornado. Recharges over time.",
+            "advancedDescription": "Hits that deal more than 400% damage also blasts enemies with a runic flame tornado, dealing 300% (+300% per stack) TOTAL damage over time. Recharges every 10 seconds."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Shuriken",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Activating your Primary skill also throws a shuriken. Recharges over time.",
+            "advancedDescription": "Activating your Primary skill also throws a shuriken that deals 400% (+100% per stack) base damage. You can hold up to 3 (+1 per stack) shurikens which all reload over 10 seconds."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Lost Seer's Lenses",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Gain a 0.5% chance to instantly kill a non-boss enemy. Corrupts all Lens-Maker's Glasses.",
+            "advancedDescription": "Your attacks have a 0.5% (+0.5% per stack) chance to instantly kill a non-Boss enemy. Corrupts all Lens-Maker's Glasses."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "82",
+        "title": "Halcyon Seed",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Summon Aurelionite during the Teleporter event.",
+            "advancedDescription": "Summon Aurelionite during the teleporter event. It has 100% (+50% per stack) damage and 100% (+100% per stack) health."
+        },
+        "rarity": "Boss (Aurelionite)"
+    },
+    {
+        "id": "15",
+        "title": "Happiest Mask",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance on killing an enemy to summon a ghost.",
+            "advancedDescription": "Killing enemies has a 7% chance to spawn a ghost of the killed enemy with 1500% damage. Lasts 30s (+30s per stack)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "96",
+        "title": "Visions of Heresy",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Replace your Primary Skill with 'Hungering Gaze'.",
+            "advancedDescription": "Replace your Primary Skill with Hungering Gaze.Fire a flurry of tracking shards that detonate after a delay, dealing 120% base damage. Hold up to 12 charges (+12 per stack) that reload after 2 seconds (+2 per stack)."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Benthic Bloom",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Upgrades your items at the start of each stage. Corrupts all 57 Leaf Clovers.",
+            "advancedDescription": "Upgrades 3 (+3 per stack) random items to items of the next higher rarity at the start of each stage. Corrupts all 57 Leaf Clovers."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "49",
+        "title": "Transcendence",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Convert all your health into shield. Increase maximum health.",
+            "advancedDescription": "Convert all but 1 health into regenerating shields. Gain 50% (+25% per stack) maximum health."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Plasma Shrimp",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "While you have shield, fire missiles on every hit. Corrupts all AtG Missile Mk. 1s.",
+            "advancedDescription": "Gain a shield equal to 10% of your maximum health. While you have a shield, hitting an enemy fires a missile that deals 40% (+40% per stack) TOTAL damage. Corrupts all AtG Missile Mk. 1s."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "74",
+        "title": "Gesture of the Drowned",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Dramatically reduce Equipment cooldown... BUT it automatically activates.",
+            "advancedDescription": "Reduce Equipment cooldown by 50% (+15% per stack). Forces your Equipment to activate whenever it is off cooldown."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "51",
+        "title": "Soulbound Catalyst",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Kills reduce equipment cooldown.",
+            "advancedDescription": "Kills reduce equipment cooldown by 4s (+2s per stack)."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "97",
+        "title": "Genesis Loop",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Fire an electric nova at low health.",
+            "advancedDescription": "Falling below 25% health causes you to explode, dealing 6000% base damage. Recharges every 30 / (2 +1 per stack) seconds ."
+        },
+        "rarity": "Boss (Wandering Vagrant)"
+    },
+    {
+        "id": "41",
+        "title": "Stun Grenade",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Chance to stun on hit.",
+            "advancedDescription": "5% (+5% on stack) chance on hit to stun enemies for 2 seconds."
+        },
+        "rarity": "Common"
+    },
+    {
+        "id": "35",
+        "title": "57 Leaf Clover",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Luck is on your side.",
+            "advancedDescription": "All random effects are rolled +1 (+1 per stack) times for a favorable outcome."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "21",
+        "title": "Red Whip",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Move fast out of combat.",
+            "advancedDescription": "Leaving combat boosts your movement speed by 30% (+30% per stack)."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Ben's Raincoat",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Prevent debuffs, instead gaining a temporary barrier. Recharges over time.",
+            "advancedDescription": "Prevents 1 (+1 per stack) debuff and instead grants a temporary barrier for 10% of maximum health. Recharges every 5 seconds."
+        },
+        "rarity": "Legendary"
+    },
+    {
+        "id": "Unknown",
+        "title": "Items",
+        "category": "placeholder",
+        "description": {}
+    },
+    {
+        "id": "Unknown",
+        "title": "Light Flux Pauldron",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Halve your cooldowns.. BUT halve your attack speed.",
+            "advancedDescription": "Decrease skill cooldowns by 50% (+50% per stack). Decrease attack speed by 50% (+50% per stack)."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "Unknown",
+        "title": "Stone Flux Pauldron",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Double your health... BUT halve your speed.",
+            "advancedDescription": "Increase max health by 100% (+100% per stack). Reduce movement speed by 50% (+50% per stack)."
+        },
+        "rarity": "Lunar"
+    },
+    {
+        "id": "104",
+        "title": "Death Mark",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Enemies with 4 or more debuffs are marked for death, taking bonus damage.",
+            "advancedDescription": "Enemies with 4 or more debuffs are marked for death, increasing damage taken by 50% from all sources for 7 (+7 per stack) seconds."
+        },
+        "rarity": "Uncommon"
+    },
+    {
+        "id": "Unknown",
+        "title": "Newly Hatched Zoea",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Periodically recruit allies from the Void. Corrupts all yellow items.",
+            "advancedDescription": "Every 60 (-50% per stack) seconds, gain a random Void ally. Can have up to 1 (+1 per stack) allies at a time. Corrupts all yellow items."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "Unknown",
+        "title": "Pluripotent Larva",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Get a corrupted extra life. Consumed on use. Corrupts all Dio's Best Friends.",
+            "advancedDescription": "Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability, and all of your items that can be corrupted will be. Corrupts all Dio's Best Friends."
+        },
+        "rarity": "Void"
+    },
+    {
+        "id": "Unknown",
+        "title": "Ignition Tank",
+        "category": "placeholder",
+        "description": {
+            "textDescription": "Your ignite effects deal quadruple damage.",
+            "advancedDescription": "Ignite effects deal +300% (+300% per stack) more damage over time."
+        },
+        "rarity": "Uncommon"
+    }
+]

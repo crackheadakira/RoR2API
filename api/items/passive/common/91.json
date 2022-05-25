@@ -1,0 +1,21 @@
+{
+    "id": 91,
+    "name": "Bison Steak",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Gain 25 max health",
+        "advancedDescription": "Increase maximum health by 25 (+25 per stack)."
+    },
+    "rarity": "Common",
+    "stats": {
+        "type": "Health",
+        "base-value": "25",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+25"
+    },
+    "unlock": "Unlocked by default",
+    "image": "placeholder"
+}

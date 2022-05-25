@@ -1,0 +1,18 @@
+{
+    "id": "Unknown",
+    "title": "Charged Perforator",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Chance on hit to call down a lightning strike.",
+        "advancedDescription": "10% chance on hit to down a lightning strike, dealing 500% (+500% per stack) damage."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "500%",
+        "Stack": "Linear",
+        "Add": "+500%"
+    }
+}

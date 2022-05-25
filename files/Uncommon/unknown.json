@@ -1,0 +1,1 @@
+{"id":"Unknown","title":"Hunter's Harpoon","category":["Utility","OnKillEffect"],"description":{"textDescription":"Killing an enemy gives you a burst of movement speed.","advancedDescription":"Killing an enemy increases movement speed by 125%, fading over 1 (+0.5 per stack) seconds."},"rarity":"Uncommon","stats":{"Stat":"Duration","Value":"1s","Stack":"Linear","Add":"+0.5s"}}

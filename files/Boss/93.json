@@ -1,0 +1,33 @@
+{
+    "id": "93",
+    "title": "Irradiant Pearl",
+    "category": [
+        "Damage",
+        "Healing",
+        "Utility",
+        "WorldUnique"
+    ],
+    "description": {
+        "textDescription": "Increase ALL of your stats.",
+        "advancedDescription": "Increases ALL stats by 10% (+10% per stack)."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": {
+            "column1": "Health",
+            "column2": "Health Regen"
+        },
+        "Value": {
+            "column1": "10%",
+            "column2": "+0.1"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+10%",
+            "column2": "+0.02"
+        }
+    }
+}

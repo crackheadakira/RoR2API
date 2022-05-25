@@ -1,0 +1,18 @@
+{
+    "id": "29",
+    "title": "Personal Shield Generator",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Gain a recharging shield.",
+        "advancedDescription": "Gain a shield equal to 8% (+8% per stack) of your maximum health. Recharges outside of danger."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Shield",
+        "Value": "8%",
+        "Stack": "Linear",
+        "Add": "+8%"
+    }
+}

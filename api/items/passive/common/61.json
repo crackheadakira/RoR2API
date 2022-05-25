@@ -1,0 +1,21 @@
+{
+    "id": 61,
+    "name": "Armor-piercing Rounds",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Deal extra damage to bosses.",
+        "advancedDescription": "Deal an additional 20% damage (+20% per stack) to bosses."
+    },
+    "rarity": "Common",
+    "stats": {
+        "type": "Damage",
+        "base-value": "20%",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+20%"
+    },
+    "unlock": "Complete a Teleporter event.",
+    "image": "placeholder"
+}

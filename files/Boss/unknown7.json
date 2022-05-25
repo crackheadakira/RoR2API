@@ -1,0 +1,30 @@
+{
+    "id": "Unknown",
+    "title": "Shatterspleen",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Critical strikes always bleed enemies. Bleeding enemies now explode.",
+        "advancedDescription": "Gain 5% critical chance. Critical Strikes bleed enemies for 240% base damage. Bleeding enemies explode on death for 400% (+400% per stack) damage, plus an additional 15% (+15% per stack) of their maximum health."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": {
+            "column1": "Damage (Base)",
+            "column2": "Damage (Max HP)"
+        },
+        "Value": {
+            "column1": "400%",
+            "column2": "15%"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+400%",
+            "column2": "+15%"
+        }
+    }
+}

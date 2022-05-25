@@ -1,0 +1,1 @@
+{"id":"65","title":"Chronobauble","category":["Utility"],"description":{"textDescription":"Slow enemies on hit.","advancedDescription":"Slow enemies on hit for -60% movement speed for 2s (+2s per stack)."},"rarity":"Uncommon","stats":{"Stat":"Slow Duration","Value":"2s","Stack":"Linear","Add":"+2s"}}

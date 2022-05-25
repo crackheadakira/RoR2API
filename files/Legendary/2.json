@@ -1,0 +1,1 @@
+{"id":"2","title":"Brilliant Behemoth","category":["Damage"],"description":{"textDescription":"All your attacks explode!","advancedDescription":"All your attacks explode in a 4m (+2.5m per stack) radius for a bonus 60% TOTAL damage to nearby enemies."},"rarity":"Legendary","stats":{"Stat":"Explosion Radius","Value":"4m","Stack":"Linear","Add":"+2.5m"}}

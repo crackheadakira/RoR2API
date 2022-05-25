@@ -1,0 +1,19 @@
+{
+    "id": "Unknown",
+    "title": "Delicate Watch",
+    "category": [
+        "Damage",
+        "LowHealth"
+    ],
+    "description": {
+        "textDescription": "Deal bonus damage. Breaks at low health.",
+        "advancedDescription": "Increase damage by 20% (+20% per stack). Taking damage to below 25% health breaks this item."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "20%",
+        "Stack": "Linear",
+        "Add": "+20%"
+    }
+}

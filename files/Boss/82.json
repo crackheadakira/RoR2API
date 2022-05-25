@@ -1,0 +1,32 @@
+{
+    "id": "82",
+    "title": "Halcyon Seed",
+    "category": [
+        "Utility",
+        "WorldUnique",
+        "TurretBlacklist"
+    ],
+    "description": {
+        "textDescription": "Summon Aurelionite during the Teleporter event.",
+        "advancedDescription": "Summon Aurelionite during the teleporter event. It has 100% (+50% per stack) damage and 100% (+100% per stack) health."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": {
+            "column1": "Health",
+            "column2": "Damage"
+        },
+        "Value": {
+            "column1": "100%",
+            "column2": "100%"
+        },
+        "Stack": {
+            "column1": "Linear",
+            "column2": "Linear"
+        },
+        "Add": {
+            "column1": "+100%",
+            "column2": "+50%"
+        }
+    }
+}

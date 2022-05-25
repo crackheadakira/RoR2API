@@ -1,0 +1,19 @@
+{
+    "id": "Unknown",
+    "title": "Empathy Cores",
+    "category": [
+        "Utility",
+        "TurretBlacklist"
+    ],
+    "description": {
+        "textDescription": "Recruit a pair of Solus Probes that gain power with more allies.",
+        "advancedDescription": "Every 30 seconds, summon two Solus Probes that gain +100% (+100% per stack) damage per ally on your team."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Probe Damage",
+        "Value": "100%",
+        "Stack": "-",
+        "Add": "+100%"
+    }
+}

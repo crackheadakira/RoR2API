@@ -1,0 +1,21 @@
+{
+    "id": "Unknown",
+    "name": "Delicate Watch",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Deal bonus damage. Breaks at low health.",
+        "advancedDescription": "Increase damage by 20% (+20% per stack). Taking damage to below 25% health breaks this item."
+    },
+    "rarity": "Common",
+    "stats": {
+        "type": "Damage",
+        "base-value": "20%",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+20%"
+    },
+    "unlock": "Unlocked by default with DLC",
+    "image": "placeholder"
+}

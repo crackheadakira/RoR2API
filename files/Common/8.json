@@ -1,0 +1,18 @@
+{
+    "id": "8",
+    "title": "Paul's Goat Hoof",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Increase movement speed.",
+        "advancedDescription": "Increases movement speed by 14% (+14% per stack)."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Movement Speed",
+        "Value": "14%",
+        "Stack": "Linear",
+        "Add": "+14%"
+    }
+}

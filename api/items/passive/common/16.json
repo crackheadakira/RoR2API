@@ -1,0 +1,21 @@
+{
+    "id": 16,
+    "name": "Bustling Fungus",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Heal all nearby allies after standing still for 1 second.",
+        "advancedDescription": "After standing still for 1 second, create a zone that heals for 4.5% (+2.25% per stack) of your health every second to all allies within 3m (+1.5m per stack)."
+    },
+    "rarity": "common",
+    "stats": {
+        "type": "Health per Second",
+        "base-value": "4.5%",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+2.25%"
+    },
+    "unlock": "Unlocked by default",
+    "image": "placeholder"
+}

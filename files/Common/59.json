@@ -1,0 +1,18 @@
+{
+    "id": "59",
+    "title": "Sticky Bomb",
+    "category": [
+        "Damage"
+    ],
+    "description": {
+        "textDescription": "Chance on hit to attach a bomb to enemies.",
+        "advancedDescription": "5% (+5% per stack) chance on hit to attach a bomb to an enemy, detonating for 180% TOTAL damage."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Chance",
+        "Value": "5%",
+        "Stack": "Linear",
+        "Add": "+5%"
+    }
+}

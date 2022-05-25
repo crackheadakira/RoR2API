@@ -1,0 +1,19 @@
+{
+    "id": "92",
+    "title": "Pearl",
+    "category": [
+        "Utility",
+        "WorldUnique"
+    ],
+    "description": {
+        "textDescription": "Increase your maximum health.",
+        "advancedDescription": "Increases maximum health by 10% (+10% per stack)."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Health",
+        "Value": "10%",
+        "Stack": "Linear",
+        "Add": "+10%"
+    }
+}

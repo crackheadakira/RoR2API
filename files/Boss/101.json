@@ -1,0 +1,13 @@
+{
+    "id": "101",
+    "title": "Artifact Key",
+    "category": [
+        "WorldUnique"
+    ],
+    "description": {
+        "textDescription": "A stone shard with immense power.",
+        "advancedDescription": "A stone shard with immense power."
+    },
+    "rarity": "Boss",
+    "stats": {}
+}

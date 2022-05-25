@@ -1,0 +1,19 @@
+{
+    "id": "41",
+    "title": "Stun Grenade",
+    "category": [
+        "Utility",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Chance to stun on hit.",
+        "advancedDescription": "5% (+5% on stack) chance on hit to stun enemies for 2 seconds."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Chance",
+        "Value": "5%",
+        "Stack": "Hyperbolic",
+        "Add": "+5%"
+    }
+}

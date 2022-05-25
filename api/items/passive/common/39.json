@@ -1,0 +1,21 @@
+{
+    "id": 39,
+    "name": "Gasoline",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Killing an enemy ignites other nearby enemies.",
+        "advancedDescription": "Killing an enemy ignites all enemies within 12m (+4m per stack) for 150% base damage. Additionally, enemies burn for 150% (+75% per stack) base damage."
+    },
+    "rarity": "Common",
+    "stats": {
+        "type": "Damage",
+        "base-value": "150%",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+75%"
+    },
+    "unlock": "",
+    "image": "placeholder"
+}

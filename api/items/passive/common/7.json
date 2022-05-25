@@ -1,0 +1,21 @@
+{
+    "id": 7,
+    "name": "Lens-Maker's Glasses",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Gain 10% chance for hits to 'Critically Strike', dealing double damage.",
+        "advancedDescription": "Your attacks have a 10% (+10% per stack) chance to 'Critically Strike', dealing double damage."
+    },
+    "rarity": "Common",
+    "stats": {
+        "type": "Critical Chance",
+        "base-value": "10%",
+        "stack": {
+            "type": "Linear",
+            "formula": ""
+        },
+        "increase-value": "+10%"
+    },
+    "unlock": "Unlocked by default.",
+    "image": "placeholder"
+}

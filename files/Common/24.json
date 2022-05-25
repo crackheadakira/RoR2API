@@ -1,0 +1,20 @@
+{
+    "id": "24",
+    "title": "Warbanner",
+    "category": [
+        "Utility",
+        "AIBlacklist",
+        "TurretBlacklist"
+    ],
+    "description": {
+        "textDescription": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
+        "advancedDescription": "On level up or starting the Teleporter event, drop a banner that strengthens all allies within 16m (+8m per stack). Raise attack and movement speed by 30%."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Radius",
+        "Value": "16m",
+        "Stack": "Linear",
+        "Add": "+8m"
+    }
+}

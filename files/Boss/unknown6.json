@@ -1,0 +1,14 @@
+{
+    "id": "Unknown",
+    "title": "Item Scrap, Yellow",
+    "category": [
+        "WorldUnique",
+        "Scrap"
+    ],
+    "description": {
+        "textDescription": "Does nothing. Prioritized when used with 3D Printers.",
+        "advancedDescription": "Does nothing. Prioritized when used with 3D Printers."
+    },
+    "rarity": "Boss",
+    "stats": {}
+}

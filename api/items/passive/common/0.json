@@ -1,0 +1,21 @@
+{
+    "id": "Unknown",
+    "name": "Item Scrap, White",
+    "category": "Passive",
+    "description": {
+        "textDescription": "Does nothing. Prioritized when used with 3D Printers.",
+        "advancedDescription": ""
+    },
+    "rarity": "Common",
+    "stats": {
+        "type": "",
+        "base-value": "",
+        "stack": {
+            "type": "",
+            "formula": ""
+        },
+        "increase-value": ""
+    },
+    "unlock": "Unlocked by default.",
+    "image": "placeholder"
+}

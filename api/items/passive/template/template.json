@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "name": "",
+    "category": "Passive",
+    "description": {
+        "textDescription": "",
+        "advancedDescription": ""
+    },
+    "rarity": "",
+    "stats": {
+        "type": "",
+        "base-value": "",
+        "stack": {
+            "type": "",
+            "formula": ""
+        },
+        "increase-value": ""
+    },
+    "unlock": "",
+    "image": "placeholder"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "61",
+    "title": "Armor-Piercing Rounds",
+    "category": [
+        "Damage",
+        "AIBlacklist"
+    ],
+    "description": {
+        "textDescription": "Deal extra damage to bosses.",
+        "advancedDescription": "Deal an additional 20% damage (+20% per stack) to bosses."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "20%",
+        "Stack": "Linear",
+        "Add": "+20%"
+    }
+}

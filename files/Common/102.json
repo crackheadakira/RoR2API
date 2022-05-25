@@ -1,0 +1,18 @@
+{
+    "id": "102",
+    "title": "Repulsion Armor Plate",
+    "category": [
+        "Utility"
+    ],
+    "description": {
+        "textDescription": "Receive flat damage reduction from all attacks.",
+        "advancedDescription": "Reduce all incoming damage by 5 (+5 per stack). Cannot be reduced below 1."
+    },
+    "rarity": "Common",
+    "stats": {
+        "Stat": "Damage Reduction",
+        "Value": "5",
+        "Stack": "Linear",
+        "Add": "+5"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "53",
+    "title": "Queen's Gland",
+    "category": [
+        "Utility",
+        "TurretBlacklist"
+    ],
+    "description": {
+        "textDescription": "Recruit a Beetle Guard.",
+        "advancedDescription": "Every 30 seconds, summon a Beetle Guard with bonus 300% damage and 100% health. Can have up to 1 (+1 per stack) Guards at a time."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Beetle Guard",
+        "Value": "1",
+        "Stack": "Linear",
+        "Add": "+1"
+    }
+}

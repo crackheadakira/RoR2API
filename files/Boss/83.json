@@ -1,0 +1,19 @@
+{
+    "id": "83",
+    "title": "Little Disciple",
+    "category": [
+        "Damage",
+        "SprintRelated"
+    ],
+    "description": {
+        "textDescription": "Fire tracking wisps while sprinting.",
+        "advancedDescription": "Fire a tracking wisp for 300% (+300% per stack) damage. Fires every 1.6 seconds while sprinting. Fire rate increases with movement speed."
+    },
+    "rarity": "Boss",
+    "stats": {
+        "Stat": "Damage",
+        "Value": "300%",
+        "Stack": "Linear",
+        "Add": "+300%"
+    }
+}
