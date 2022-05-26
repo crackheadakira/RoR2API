@@ -31,7 +31,6 @@ JSDOM.fromURL("https://riskofrain2.fandom.com/wiki/Category:Items").then((dom1) 
                         .filter(value => Object.keys(value).length !== 0);
                 });
 
-
                 let statObject = {};
                 let allStats = [];
                 let statRef = infoBox?.querySelectorAll('tr > th')[1]?.parentElement?.nextElementSibling;
