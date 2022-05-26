@@ -5,7 +5,7 @@
 </p>
 
 ---
-<br>
+
 This all originated from when I wanted to try learning Vue, so I decided on a site that shows you all the items Risk of Rain 2 has. But I ran into a problem, there was no simple online database with all the info I needed.
 I then saw this as a chance to learn making a REST api, so I began with that, but after writing the app file I realized it would be too tedious to manually have to create each entry for the item. That's when a friend of mine, [Fülöp Tibor](https://github.com/TibixDev), recommended I take this as a chance to learn JSDom too, and that's exactly what I did. After watching alot of YouTube tutorials for getting the grasp on REST APIs, I dove my head in. 
 
