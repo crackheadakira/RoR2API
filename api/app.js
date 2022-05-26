@@ -98,10 +98,10 @@ function showItems(directory) {
     for (file of dir) {
         const fileInfo = JSON.parse(fs.readFileSync(`${basicDir}/${file}`));
         if (file.indexOf('.json') !== -1) { file = file.replace('.json', '') }
-        let URL = `${apiURL}${directory}/${file}`.replaceAll('//', "/").replace('http:/', 'http://');
+        let URL = `${apiURL}${directory}/${file}`.replaceAll('//', "/").replace('http:/', 'http://').replace('https:/', 'https://');
         fileArray.push({
             id: fileInfo.id,
-            name: fileInfo.name,
+            name: fileInfo.title,
             url: URL
         })
     }
@@ -134,7 +134,7 @@ function showDir(directory) {
     let dirInfo = [];
 
     for (folder of dir) {
-        let URL = `${apiURL}${directory}/${folder}`.replaceAll('//', "/").replace('http:/', 'http://');
+        let URL = `${apiURL}${directory}/${folder}`.replaceAll('//', "/").replace('http:/', 'http://').replace('https:/', 'https://');
         dirInfo.push({
             rarity: folder,
             URL: URL

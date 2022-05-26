@@ -24,6 +24,7 @@ The very first result achieved
 
 ![The very first result](https://i.imgur.com/Iwm77Sn.png)
 <br>
+
 Code used to write all the HTML to the first JSON file
 
 ![Code used to write all the HTML to the first JSON file](https://i.imgur.com/SUCUSPO.png)
