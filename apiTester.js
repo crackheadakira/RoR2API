@@ -1,11 +1,11 @@
 const axios = require('axios');
-const url = "https://ror2api.morgantali.tech/items/passive/common/39";
+const url = "https://ror2api.morgantali.tech/items/passive";
 
 axios.get(url)
     .then(response => {
 
-        let { stats } = response.data;
-        console.log(formatStats(stats));
+        const { data } = response;
+        console.log(data);
 
     });
 

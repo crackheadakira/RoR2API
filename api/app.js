@@ -1,5 +1,6 @@
 console.clear();
 const fs = require('fs');
+const path = require('path');
 const express = require('express');
 const app = express();
 const PORT = 3000;
@@ -10,6 +11,17 @@ app.use(express.json());
 app.listen(PORT, () => console.log(`API is active at ${apiURL}`));
 app.get('/', (req, res) => {
     res.send("This is the start page.");
+});
+
+app.get("/items/passive/all", (req, res) => {
+    let fileArray = [];
+    let filestoShow = [];
+    showAll(`${__dirname}/items`, fileArray);
+    for (file of fileArray) {
+        file = file.replace('.json', '').replace(__dirname, '');
+        filestoShow.push(showFile(file));
+    }
+    res.json(filestoShow)
 });
 
 makeGET(); // Allows you to access the first basic categories of items
@@ -141,4 +153,22 @@ function showDir(directory) {
         });
     }
     return dirInfo;
+}
+
+/**
+ * Will recursively read the directory then show all the items
+ * @param {String} directory The directory to start reading from
+ * @param {Array} array The array to push the found files to
+ * @returns {null}
+ */
+
+function showAll(directory, array) {
+    fs.readdirSync(directory).forEach(function (file) {
+        var subpath = path.join(directory, file)
+        if (fs.lstatSync(subpath).isDirectory()) {
+            showAll(subpath, array);
+        } else {
+            array.push(path.join(directory, file))
+        }
+    });
 }
