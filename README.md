@@ -15,6 +15,25 @@ The very first code I wrote for the project was quite finicky, as it barely func
 
 I found it a big pain in the ass to scrape this fandom wiki, as there was no "easy" identifiers I could use to get all the necessary information without writing some very hard-to-read code.
 
+---
+<br>
 Here are some images taken during the progress, they may or may not feature code or just results:
 
+<br>
+The very first result achieved
+
 ![The very first result](https://i.imgur.com/Iwm77Sn.png)
+<br>
+Code used to write all the HTML to the first JSON file
+
+![Code used to write all the HTML to the first JSON file](https://i.imgur.com/SUCUSPO.png)
+<br>
+
+**BIG LEAP IN TIME** The original code written to output the basic info
+
+![The original code written to output the basic info](https://i.imgur.com/vr4gPi9.png)
+<br>
+
+The output
+
+![The output](https://i.imgur.com/AdLeTcX.png)
