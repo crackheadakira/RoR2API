@@ -35,9 +35,8 @@ Before continuing with writing the rest of the parser, I made myself a mental ch
 After making that checklist, I began with what I thought would be one of the simplest tasks, the title. I begun with parsing it from the information table header, but that soon revealed a problem, specifically a problem with parsing the void items. The void items had an image right next to the title of the item inside the same div that contained text that was hidden to the user unless they were on mobile I assume, so whenever I parsed it it also parsed the text inside it, as JSDom didn't have a `.innerText` function that allowed you to get the text just as the user saw it instead of from the source code. After banging some rocks together for some minutes I came up with the solution to just get the title from the URL, since the URL always featured the item title, and it had a very simple identifier, it came after `/wiki`
 
 It was very simple to get the simple, all I had to do was just get the URL by doing `dom?.window.location.href`, to very briefly explain what that snippet of code does, it takes the URL from the address bar. I then separated the URL into an array by using `/wiki/` as the point on where to split it. I then selected the second element inside the array, which would be the title of the item, but I still wasn't done as the title was formatted like this `57_Leaf_Clover`, so I had to replace all the underscores with spaces, and that worked perfectly, until there was an URL that featured [percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding). It was Will-o'-the-wisp, but the title didn't look like that, it instead looked like `Will-o%27-the-wisp`.
-<br>
+
 After doing some quick googling to figure out what was causing this I found a solution. It was the `decodeURI()` function which was exactly what I needed, it just took all the percent-encodings and turned them back into regular characters, so I just added that to the title code, and it worked like a charm, after adding that this is what the code ended up looking like
-<br>
 
 ```javascript
 decodeURI(dom?.window.location.href.split("/wiki/")[1].replaceAll("_", "  ")
@@ -54,6 +53,14 @@ I began with the ID parameter, and the result ended up being a bit hacky to say 
 
 The only thing I had to do was write some extra code for the category as sometimes there were multiple categories on a single item and I wanted to get every single one of them. I won't go into how it functions very deeply, but I will quickly speed through it. I first took the inner HTML of the categories div and then deleted all the HTML tags. I had to do this method as I needed a definite space between the categories because If i just took the text content by itself it mushed all the categories into one word, then I split the categories into different elements, again by using `.split` but by having the space be the identifier this time, then I took out all the elements inside the array that were just empty, and that left me with a perfect array that featured all the categories.
 
+### The Rarity
+
+I found the rarity to be even easier to parse than the title, as there was a very simple pattern for the rarity on every single item. It was always the very first element that matched this CSS selector `tr > td + td`, so I just had to get the text content of the element and that was it, so much simpler than every single other one.
+
+### The Description
+
+So, for the description there were two different types, the simple description which just featured the text and didn't go really in-depth about the item. Then there was also the advanced description that featured all of the intricate details. At a first glance I thought these would be quite difficult to get, but what helped make them easier was that they each featured a class that no other element used. `.infoboxcaption` and `infoboxdesc`. `.infoboxcaption` is the simple description, and `infoboxdesc` is the advanced description, so there was no mistaking these for each other.
+
 ## 0.3 Conclusion
 
-So in conclusion this all had stemmed from me wanting to learn Vue but quickly branched into me learning how to make a REST API and how to use JSDom.
+So in conclusion this all had stemmed from me wanting to learn Vue but quickly branched into me learning how to make a REST API and how to use JSDom, and by the end of the project I was able to make a working REST API that I could use to get the data I wanted and be confident enough in using JSDom again.

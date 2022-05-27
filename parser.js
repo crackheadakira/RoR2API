@@ -48,6 +48,9 @@ JSDOM.fromURL("https://riskofrain2.fandom.com/wiki/Category:Items").then(
                 ?.nextElementSibling;
             let firstSibling = statRef?.nextElementSibling;
             let secondSibling = firstSibling?.nextElementSibling;
+            // Get the first and second siblings of the Stats header
+            // to get the 2 columns below it, or just one if there
+            // isn't a second one.
 
             let rarity = infoBox
               ?.querySelectorAll("tr > td + td")[0]
