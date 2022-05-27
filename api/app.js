@@ -5,10 +5,8 @@ const express = require("express");
 const app = express();
 const PORT = 3000;
 
-const apiURL = `http://localhost:${PORT}`;
-
 app.use(express.json());
-app.listen(PORT, () => console.log(`API is active at ${apiURL}`));
+app.listen(PORT, () => console.log(`API is active on PORT ${PORT}`));
 app.get("/", (req, res) => {
   res.send("This is the start page.");
 });
@@ -42,7 +40,7 @@ function makeGET(directory = "") {
   directory = showDirURL(directory);
   for (folder of directory) {
     app.get(folder, (req, res) => {
-      res.json(showDir(req.url));
+      res.json(showDir(req.url, req));
     });
   }
 }
@@ -80,7 +78,7 @@ function makeGETItems(directory) {
   directory = showDirURL(directory);
   for (folder of directory) {
     app.get(folder, (req, res) => {
-      res.json(showItems(req.url));
+      res.json(showItems(req.url, req));
     });
   }
 }
@@ -98,10 +96,11 @@ function showFile(directory) {
 /**
  *  Shows a preview of all the items in specified directory.
  * @param {String} directory The URL returned by REST
+ * @param {unknown} req The full request by REST
  * @returns {Array}
  */
 
-function showItems(directory) {
+function showItems(directory, req) {
   const basicDir = `${__dirname}${directory}`;
   const dir = fs.readdirSync(basicDir);
   let fileArray = [];
@@ -111,10 +110,7 @@ function showItems(directory) {
     if (file.indexOf(".json") !== -1) {
       file = file.replace(".json", "");
     }
-    let URL = `${apiURL}${directory}/${file}`
-      .replaceAll("//", "/")
-      .replace("http:/", "http://")
-      .replace("https:/", "https://");
+    let URL = `${req.protocol}://${req.get("host")}${directory}/${file}`;
     fileArray.push({
       id: fileInfo.id,
       name: fileInfo.title,
@@ -142,18 +138,16 @@ function showDirURL(directory) {
 /**
  * Shows all the folder names in specified directory
  * @param {String} directory The URL returned by REST
+ * @param {unknown} req The full request by REST
  * @returns {Array}
  */
 
-function showDir(directory) {
+function showDir(directory, req) {
   const dir = fs.readdirSync(`${__dirname}${directory}`);
   let dirInfo = [];
 
   for (folder of dir) {
-    let URL = `${apiURL}${directory}/${folder}`
-      .replaceAll("//", "/")
-      .replace("http:/", "http://")
-      .replace("https:/", "https://");
+    let URL = `${req.protocol}://${req.get("host")}${directory}/${folder}`;
     dirInfo.push({
       rarity: folder,
       URL: URL,
