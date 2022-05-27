@@ -147,7 +147,10 @@ function showDir(directory, req) {
   let dirInfo = [];
 
   for (folder of dir) {
-    let URL = `${req.protocol}://${req.get("host")}${directory}/${folder}`;
+    console.log(directory);
+    let URL1 = `${req.protocol}://${req.get("host")}`;
+    let URL2 = `${directory}/${folder}`.replaceAll("//", "/");
+    let URL = URL1 + URL2;
     dirInfo.push({
       rarity: folder,
       URL: URL,
